@@ -5,5 +5,5 @@
  Ishga tushirish:
  
  ```bash
- php movie.php starwars.txt
+ php player.php starwars.txt
  ```
